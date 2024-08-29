@@ -35,12 +35,12 @@ export default function Page(): React.JSX.Element {
         <Box boxShadow={10} width={'100%'} padding={5} margin={5}>
 
           <Button style={{ width: '100%' }} type='button' color='success' onClick={createHomeButtonOnClick}>
-            Ev Yarat
+            Ev Yarat.
           </Button>
         </Box>
         <Box boxShadow={10} width={'100%'} padding={5} margin={5}>
           <Button style={{ width: '100%' }} type='button' color='warning' onClick={joinHomeButtonOnClick}>
-            Eve katıl
+            Eve katıl.
           </Button>
         </Box>
       </Box>

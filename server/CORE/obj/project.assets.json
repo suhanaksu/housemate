@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Yusuf\\.nuget\\packages\\": {}
+    "C:\\Users\\behlu\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Housemate\\server\\CORE\\CORE.csproj",
-      "projectName": "CORE",
-      "projectPath": "D:\\Housemate\\server\\CORE\\CORE.csproj",
-      "packagesPath": "C:\\Users\\Yusuf\\.nuget\\packages\\",
-      "outputPath": "D:\\Housemate\\server\\CORE\\obj\\",
+      "projectUniqueName": "C:\\Users\\behlu\\OneDrive\\Masaüstü\\homemate\\dir\\server\\CORE\\Core.csproj",
+      "projectName": "Core",
+      "projectPath": "C:\\Users\\behlu\\OneDrive\\Masaüstü\\homemate\\dir\\server\\CORE\\Core.csproj",
+      "packagesPath": "C:\\Users\\behlu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\behlu\\OneDrive\\Masaüstü\\homemate\\dir\\server\\CORE\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\behlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

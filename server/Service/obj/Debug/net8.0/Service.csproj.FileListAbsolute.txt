@@ -1,0 +1,17 @@
+C:\Users\behlu\OneDrive\Masaüstü\homemate\dir\server\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\behlu\OneDrive\Masaüstü\homemate\dir\server\Service\bin\Debug\net8.0\Service.dll
+C:\Users\behlu\OneDrive\Masaüstü\homemate\dir\server\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\behlu\OneDrive\Masaüstü\homemate\dir\server\Service\bin\Debug\net8.0\Core.dll
+C:\Users\behlu\OneDrive\Masaüstü\homemate\dir\server\Service\bin\Debug\net8.0\Repository.dll
+C:\Users\behlu\OneDrive\Masaüstü\homemate\dir\server\Service\bin\Debug\net8.0\Repository.pdb
+C:\Users\behlu\OneDrive\Masaüstü\homemate\dir\server\Service\bin\Debug\net8.0\Core.pdb
+C:\Users\behlu\OneDrive\Masaüstü\homemate\dir\server\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\behlu\OneDrive\Masaüstü\homemate\dir\server\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\behlu\OneDrive\Masaüstü\homemate\dir\server\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\behlu\OneDrive\Masaüstü\homemate\dir\server\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\behlu\OneDrive\Masaüstü\homemate\dir\server\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\behlu\OneDrive\Masaüstü\homemate\dir\server\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\behlu\OneDrive\Masaüstü\homemate\dir\server\Service\obj\Debug\net8.0\Service.dll
+C:\Users\behlu\OneDrive\Masaüstü\homemate\dir\server\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\behlu\OneDrive\Masaüstü\homemate\dir\server\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\behlu\OneDrive\Masaüstü\homemate\dir\server\Service\obj\Debug\net8.0\ref\Service.dll
